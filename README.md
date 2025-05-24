@@ -21,8 +21,7 @@ La API acepta fechas como parámetros de URL y devuelve una representación en f
 1. Clona el repositorio:
 
 ```bash
-git clone https://github.com/tu-usuario/nombre-del-repo.git
-cd nombre-del-repo
+git clone https://github.com/TheMasterShoot/project-timestamp-microservice.git
 ```
 
 2. Instala las dependencias:
